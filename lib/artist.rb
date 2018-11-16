@@ -3,5 +3,5 @@ class artist
   
   def initialize
     @name = "josh"
-    
+  end
 end
